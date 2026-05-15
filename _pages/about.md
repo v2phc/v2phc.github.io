@@ -16,7 +16,7 @@ There are, perhaps, 2 questions that come to mind.
 - And if you are my sister, why is there no profile picture containing my face?
 (Of course, feel free to think, or even ask, a fourth question.)
 
-** What can you find here? **
+## What can you find here?
 
 Even though a website is commonly public, I think that in general a blog is also something personal.
 And so I've created this not with the aim to share information, but rather as a way for me to write about things that I care about, that I would like to learn, understand, or think about, and also a bit to store this information somewhere (and where better than in "the cloud").
@@ -36,13 +36,14 @@ And so with the previous to previous paragraph in mind, you might some which are
 Of course, this website might be considered incomplete if I do not give explicit description of myself.
 This will be discussed in the next (sub)section.
 
-** Who am I? **
+## Who am I?
 
 I don't feel like introducing myself properly - after all, what is the purpose to that as one can only get to know someone after spending time with them.
 Yet, if this website (incl. its contents) does not give a broad idea, there are some posts that you might find interesting to read.
 For example: 
 - [this one](Historia Selecta)
 - [or, this one](My world view, a la )
+
 Or perhaps less general:
 - [.](My view on mathematics and science)
 - [..](Thesis stellingen)
