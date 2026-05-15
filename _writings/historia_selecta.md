@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Historia Selecta'
+date: 1000-01-11
+permalink: /writings/historia_selecta`/
 tags:
   - cool posts
   - category1
