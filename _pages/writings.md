@@ -1,6 +1,6 @@
 ---
 layout: posts
 title: "A list of Writings & Thoughts"
-permalink: /posts/
+permalink: /writings/
 author_profile: true
 ---
