@@ -27,7 +27,7 @@ author:
   name             : "An academic caveman"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "The previously thought/assumed center of our universe"
+  location         : "The previously thought/assumed<br> center of our universe"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : # "none@example.org" 
