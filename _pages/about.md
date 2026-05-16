@@ -41,7 +41,7 @@ This will be discussed in the next (sub)section.
 I don't feel like introducing myself properly - after all, what is the purpose to that as one can only get to know someone after spending time with them.
 Yet, if this website (incl. its contents) does not give a broad idea, there are some posts that you might find interesting to read.
 For example: 
-- [this one](Historia Selecta)
+- [this one](writings/historia_selecta.md)
 - [or, this one](My world view, a la )
 
 Or perhaps less general:
