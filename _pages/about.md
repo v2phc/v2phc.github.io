@@ -9,7 +9,7 @@ redirect_from:
 
 >> Hello, Universe!
 
-Upon 1st encountering this website, you might be wondering: What is this all about? [:thinking-face]
+Upon 1st encountering this website, you might be wondering: What is this all about 🤔?
 There are, perhaps, 2 questions that come to mind.
 - Who is the author or designer, what is his or hers background, etcera?
 - What is the main topic(s) discussed hereon.
